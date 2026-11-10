@@ -1,0 +1,2 @@
+﻿"bScale"= 8
+"lScale"= 8
